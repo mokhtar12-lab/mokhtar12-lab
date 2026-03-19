@@ -1,7 +1,8 @@
 <div align="center" width="50">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com/mokhtar12-lab" alt="Hello Coders" width="60%"/> <br>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/mokhtar12-lab" alt="Workspace"  width="40%"/><br> 
+<br>
+  <p color="black" font-size="30"> Hello Coders, I'm Mokhtar Fared </p>
+<br> 
 
 
 ![Totals Hits](https://komarev.com/ghpvc/?username=SP-XD&style=flat&color=orange&label=PROFILE+VIEWS)
