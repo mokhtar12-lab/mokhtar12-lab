@@ -27,12 +27,11 @@
 
 class About extends Me { 
   const myTools = {  
-    "ProgramingLanguages" : { "Python", "Javascript", "Java", "SQL", "Spring Boot" },
-    "OtherLanguages" : { "HTML", "CSS", "Json" },
-    "Database" : { "MySQL", "PostgreSql" },
+    "ProgramingLanguages" : { "Java", "SQL", "Spring Boot", "Spring Security" },
+    "Database" : { "MySQL", "Hibernate", "Spring Data JPA" },
     "Editors" : { "Vscode" },
     "Platforms" : { "GNU/Linux", "Windows" },
-    "OtherTools" : { "Git" }
+    "OtherTools" : { "Git", "MapStruct" }
   };
 }
 ```
